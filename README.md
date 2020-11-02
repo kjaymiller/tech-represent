@@ -8,7 +8,7 @@ Sadly they are often used as the diversity spokesperson for their company and te
 
 **This is not a place for that**
 
-**Tech(Re)Present** is about showcasing the work and people doing the work. The goal is to show that folks from underrepresented folks have the technical skill that qualifies them. 
+**Tech(Re)Present** is about showcasing the work AND **the underrepresented people doing the work**. The goal is to show that folks from underrepresented folks have the technical skill that qualifies them. 
 
 Here is the mission statement for this project:
 
