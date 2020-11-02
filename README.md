@@ -1,14 +1,14 @@
-# tech-represent
+# Tech-(Re)present
 
 Space given to folks in tech to share what is important to them, not their underrepresentation.
 
-# There are plenty of folks that are from underrepresented groups that are doing awesome things!
+## There are plenty of folks that are from underrepresented groups that are doing awesome things!
 
 Sadly they are often used as the diversity spokesperson for their company and teams.
 
 **This is not a place for that**
 
-**Tech(re)Present** is about showcasing the work and people doing the work. The goal is to show that folks from underrepresented folks have the technical skill that qualifies them. 
+**Tech(Re)Present** is about showcasing the work and people doing the work. The goal is to show that folks from underrepresented folks have the technical skill that qualifies them. 
 
 Here is the mission statement for this project:
 
